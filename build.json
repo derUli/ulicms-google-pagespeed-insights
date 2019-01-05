@@ -1,6 +1,6 @@
 {
    "id" : "google_pagespeed_insights",
-   "version" : "1.0.1",
+   "version" : "1.0.2",
    "description" : "Google PageSpeed Insights",
    "categories" : ["google", "speed", "performance"],
    "compatible_from" : "2017.4"
